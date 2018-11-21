@@ -8,8 +8,8 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "495587595418337309"; // ايدي السررفر
-var channel = "514926922111647744";//ايدي الروم
+var server = "514930984110653450"; // ايدي السررفر
+var channel = "514931131112488960";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('Universe Town  , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town , Universe Town  , Universe Town  , Universe Town  , Universe Town  , Universe Town  , Universe Town  , Universe Town  , Universe Town  , Universe Town  ,  ')
     },305);
